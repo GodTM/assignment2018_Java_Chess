@@ -20,7 +20,7 @@ import assignment2018.Move;
  * @author Richard Clayton (r.h.clayton@sheffield.ac.uk), Steve Maddock
  *         (s.c.maddock@sheffield.ac.uk)
  */
-package assignment2018.codeprovided;
+
 public abstract class Piece {
 
     // instance fields to store piece symbol, location, colour and board

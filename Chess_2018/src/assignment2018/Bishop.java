@@ -203,7 +203,7 @@ public class Bishop extends Piece{
             return false ;
 
             // true if in range, occupied and in the piece of the same color
-            // note that in general the Move object will be set to false but after the if statement the isoccupied will be set to true
+            // note that in general the Move object will be set to false but after the if statement the occupied will be set to true
         else if(!getBoard().outOfRange(newX, newY) && getBoard().occupied(newX, newY)
                 && (getBoard().getPiece(newX, newY).getColour() != this.getColour()))
             return true ;

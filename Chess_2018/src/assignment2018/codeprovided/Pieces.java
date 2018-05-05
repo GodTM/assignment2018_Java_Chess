@@ -21,7 +21,7 @@ import assignment2018.*;
  * @author Richard Clayton (r.h.clayton@sheffield.ac.uk), Steve Maddock
  *         (s.c.maddock@sheffield.ac.uk)
  */
-package assignment2018.codeprovided;
+
 public class Pieces {
 
     /*
@@ -29,7 +29,7 @@ public class Pieces {
      * rows. Can switch display depending on what colour the player chooses
      */
 
-    private Array List<Piece> myPieces;
+    private ArrayList<Piece> myPieces;
     private Board theBoard;
     private int colour;
     private int numPieces;

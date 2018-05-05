@@ -18,7 +18,7 @@ import assignment2018.Board;
  * @author Richard Clayton (r.h.clayton@sheffield.ac.uk), Steve Maddock
  *         (s.c.maddock@sheffield.ac.uk)
  */
-package assignment2018.codeprovided;
+
 public abstract class Player {
 
     private String name;

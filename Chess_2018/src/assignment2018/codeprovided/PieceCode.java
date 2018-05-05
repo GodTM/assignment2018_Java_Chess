@@ -19,7 +19,7 @@ package assignment2018.codeprovided;
  */
 
 
-package assignment2018.codeprovided;
+
 
 public final class PieceCode {
 
